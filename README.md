@@ -6,6 +6,7 @@
 
 ## Deployment 🚀
 Effortlessly Deploy Arsenic on Heroku or Replit with Just a Few Clicks 🚀
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AvidTroll/Arsenic)
 
 Before deploying Arsenic, you need to have the following:
