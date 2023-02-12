@@ -5,7 +5,9 @@
 💻 Recaptcha, Discord with actual login credentials (no QR code required), websocket sites, and sites with cookies all work seamlessly with Arsenic. However, some sites like YouTube's UI that depend on window.location and are minified may not work. You can still watch videos on YouTube by using the format https://proxysite.com/main/https://www.youtube.com/watch?v=vidid.
 
 ## Deployment 🚀
+Effortlessly Deploy Arsenic on Heroku or Replit with Just a Few Clicks 🚀
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AvidTroll/Arsenic)
+
 Before deploying Arsenic, you need to have the following:
 
 1. Nginx
