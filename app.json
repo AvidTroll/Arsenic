@@ -1,8 +1,8 @@
 {
-    "name": "Womginx",
-    "description": "Fastest proxy using only nginx as the backend server",
-    "repository": "https://github.com/binary-person/womginx",
-    "logo": "https://raw.githubusercontent.com/binary-person/womginx/master/public/logo.png",
+    "name": "Arsenic",
+    "description": "Arsenic is a web proxy 🌐 designed to help users bypass internet filters and firewalls 🚫.",
+    "repository": "https://github.com/AvidTroll/Arsenic",
+    "logo": "https://raw.githubusercontent.com/AvidTroll/Arsenic/main/arsenicicon.png",
     "keywords": [
         "nginx",
         "docker"
