@@ -31,4 +31,4 @@ Assuming you have all of the above, follow these steps to deploy Arsenic:
 This project is licensed under the AGPL license. Wombat, which Arsenic uses, is also licensed under AGPL, so this project is required to be licensed under AGPL as well.
 
 ## Discord Server 💬
-Join our Discord server, Cyx Network, for support and to provide suggestions. We are always looking for ways to improve and welcome any feedback you may have!
+Join our Discord server, [Cyx Network](https://discord.gg/RvndfG4gmd), for support and to provide suggestions. We are always looking for ways to improve and welcome any feedback you may have!
