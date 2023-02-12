@@ -4,7 +4,7 @@
 
 💻 Recaptcha, Discord with actual login credentials (no QR code required), websocket sites, and sites with cookies all work seamlessly with Arsenic. However, some sites like YouTube's UI that depend on window.location and are minified may not work. You can still watch videos on YouTube by using the format https://proxysite.com/main/https://www.youtube.com/watch?v=vidid.
 
-##Deployment 🚀
+## Deployment 🚀
 
 Before deploying Arsenic, you need to have the following:
 
@@ -27,8 +27,8 @@ If you are using a reverse proxy, set the x-forwarded-for header as Arsenic's ra
 Start Arsenic by running sudo docker-compose up -d and stop it by running sudo docker-compose down
 To update Wombat to the latest version, run git pull && sudo docker-compose up -d --build
 
-##License 📜
+## License 📜
 This project is licensed under the AGPL license. Wombat, which Arsenic uses, is also licensed under AGPL, so this project is required to be licensed under AGPL as well.
 
-##Discord Server 💬
+## Discord Server 💬
 Join our Discord server, Cyx Network, for support and to provide suggestions. We are always looking for ways to improve and welcome any feedback you may have!
