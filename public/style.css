@@ -1,0 +1,99 @@
+#container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #000000;
+  position: initial;
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.submit-button {
+font-family: "Lemon Milk", sans-serif;
+  width: 60px;
+  height: 40px;
+  border-radius: 20px;
+  padding: 10px;
+  box-shadow: 0px 0px 10px gray;
+  text-align: center;
+    z-index: 1;
+}
+
+.site-button {
+font-family: "Lemon Milk", sans-serif;
+  width: 90px;
+  height: 40px;
+  border-radius: 20px;
+  padding: 10px;
+  box-shadow: 0px 0px 10px gray;
+  text-align: center;
+    z-index: 1;
+}
+
+#container {
+  display: flex;
+  height: 100%;
+  background-color: #000000;
+  align-items: center;
+  justify-content: center;
+}
+
+#title {
+  font-family: "Lemon Milk", sans-serif;
+  font-size: 36px;
+  color: white;
+  margin-bottom: 30px;
+}
+
+#searchbar {
+  width: 300px;
+  height: 40px;
+  border-radius: 20px;
+  padding: 10px;
+  box-shadow: 0px 0px 10px gray;
+  text-align: center;
+    z-index: 1;
+}
+
+#container .particles-js-canvas-el {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+
+
+
+
+
+
+      #sidebar {
+        width: 200px;
+        height: 100%;
+        background-color: white;
+        position: absolute;
+        top: 0;
+        left: -200px;
+        transition: left 0.3s ease-out;
+        padding: 30px;
+      }
+
+      #sidebar.open {
+        left: 0;
+      }
+
+      #sidebar-btn {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        background-color: white;
+        color: black;
+        border-radius: 20px;
+        padding: 10px 20px;
+        cursor: pointer;
+      }
