@@ -1,6 +1,13 @@
-language="nix"
-run = "./replit-run.sh"
+language = "nix"
+
+run = '''
+  chmod +x docker-sed.sh replit-run.sh
+
+  ./replit-run.sh
+'''
+
 entrypoint = "main.sh"
 
 [nix]
 channel = "stable-22_11"
+
