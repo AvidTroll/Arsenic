@@ -1,5 +1,4 @@
 #!/bin/bash
-chmod +x docker-sed.sh replit-run.sh
 
 set -e
 
